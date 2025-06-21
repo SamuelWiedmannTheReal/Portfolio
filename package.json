@@ -1,0 +1,19 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamuelWiedmannTheReal/Portfolio.git"
+  },
+  "author": "Samuel Wiedmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamuelWiedmannTheReal/Portfolio/issues"
+  },
+  "homepage": "https://github.com/SamuelWiedmannTheReal/Portfolio#readme"
+}
