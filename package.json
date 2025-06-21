@@ -1,22 +1,16 @@
 {
-  "name": "react",
+  "name": "portfolio",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "dev",
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/SamuelWiedmannTheReal/Portfolio.git"
-  },
-  "author": "Samuel Wiedmann",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/SamuelWiedmannTheReal/Portfolio/issues"
-  },
-  "homepage": "https://github.com/SamuelWiedmannTheReal/Portfolio#readme"
+  "dependencies": {
+    "next": "^15.3.4",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
 }
