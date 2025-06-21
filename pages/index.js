@@ -1,13 +1,13 @@
 // pages/index.js
 import React from 'react';
+import Link from 'next/link';
+import Navbar from '../components/Navbar';
 
 const App = () => {
   return (
-    <div>
-      <h1 className='text-red-500'>Welcome to My Portfolio</h1>
-      <p>This is the home page of my portfolio website.</p>
-      <p>Feel free to explore my projects and skills!</p>
-    </div>
+    <main className='bg-slate-300 dark:bg-gray-700'>
+     <Navbar />
+    </main>
   );
 }
 
